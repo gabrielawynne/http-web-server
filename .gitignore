@@ -1,3 +1,6 @@
 *.zip
 zip_peek/
 *.class
+*.docx
+SimpleWebServer/spotbugs*/
+SimpleWebServer/spotbugs/
